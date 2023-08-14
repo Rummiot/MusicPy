@@ -1,0 +1,11 @@
+black = 30, 35, 56
+white = 200, 204, 224
+grey = 64, 68, 82
+red = 201, 133, 133
+dark_red = 82, 28, 53
+green = 142, 209, 172
+dark_green = 41, 102, 82
+button = 204, 210, 227
+button_border = 135, 49, 65
+button_hover = 157, 167, 194
+button_border_hover = 92, 181, 125
